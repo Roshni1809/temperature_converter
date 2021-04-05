@@ -1,6 +1,6 @@
 # Temperature Converter
 
-I have used HTML,,CSS and javascript for this temperature converter.
+Used HTML,,CSS and JavaScript for this temperature converter.
 
 ![image](https://user-images.githubusercontent.com/71212064/113639357-9987b280-9696-11eb-8c95-cda91681422f.png)
 
