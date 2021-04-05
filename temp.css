@@ -1,0 +1,41 @@
+        body {
+            background-color: #f9d5e5;
+            margin-top: 60px;
+            text-align: center;
+            padding: 30px;
+        }
+        
+        h1 {
+            text-transform: uppercase;
+        }
+        
+        #cel {
+            background-color: #DE3163;
+            padding: 10px;
+            width: 240px;
+            height: 80px;
+            font-size: 2.5rem;
+            color: #FFFFFF !important;
+        }
+        
+        #fer {
+            background-color: #d46174;
+            padding: 10px;
+            width: 240px;
+            height: 80px;
+            font-size: 2.5rem;
+            color: #FFFFFF !important;
+        }
+        
+        #kel {
+            background-color: #eeac99;
+            padding: 10px;
+            width: 240px;
+            color: #FFFFFF !important;
+            height: 80px;
+            font-size: 2.5rem;
+        }
+        
+         ::-webkit-input-placeholder {
+            color: #FFFFFF !important;
+        }
